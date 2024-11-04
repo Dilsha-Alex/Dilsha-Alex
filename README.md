@@ -11,6 +11,6 @@ Skills: PYTHON / R / SQL / TABLEAU / POWER BI / QlikSense / PROBABILITY & STATIS
 # [Project 2: Product Demand Forecasting for Inventory Optimization]()
 # [Project 3: Hospital Readmission Prediction]()
 # [Project 4: Stock Market Price Movement Prediction]()
-# [Project 5: Fraud Detection in Financial Trasactions]()
+# [Project 5: Fraud Detection in Financial Transactions]()
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilsha-Alex&show_icons=true)  
