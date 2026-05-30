@@ -56,7 +56,7 @@ Data Analytics / Predictive Analytics / Business Analytics / Business Intelligen
 
 A collection of end-to-end data projects spanning machine learning, NLP, time series forecasting, ETL pipelines, BI dashboards, and cybersecurity analytics — built across six professional roles.
 
-[Click here to view all projects →](https://github.com/Dilsha-Alex/Data-Projects/blob/master/README.md)
+[Click here to view all projects →](https://github.com/Dilsha-Alex/Data-Projects/blob/master/Repository_README.md)
 
 
 
