@@ -30,7 +30,7 @@ Find me on: [LinkedIn](https://www.linkedin.com/in/dilsha-alex/) | [Tableau](htt
 
 
 
-**Invited Project Presenter (Speech \& Text Analytics of ATC-Pilot Communications)** — *Deutsches Zentrum für Luft- und Raumfahrt (DLR — German Aerospace Center), Braunschweig, Germany*
+**Academic Project Presenter (Speech \& Text Analytics of ATC-Pilot Communications)** — *Deutsches Zentrum für Luft- und Raumfahrt (DLR — German Aerospace Center), Braunschweig, Germany*
 
 
 
